@@ -1,0 +1,13 @@
+{
+  "domain": "go.riyazali.net",
+  "repositories": [{
+    "url": "https://github.com/riyaz-ali/sqlite",
+    "prefix": "sqlite"
+  }, {
+    "url": "https://github.com/riyaz-ali/httpx",
+    "prefix": "httpx"
+  }, {
+    "url": "https://github.com/riyaz-ali/epd",
+    "prefix": "epd"
+  }]
+}
