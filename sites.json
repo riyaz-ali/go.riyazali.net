@@ -9,5 +9,8 @@
   }, {
     "url": "https://github.com/riyaz-ali/epd",
     "prefix": "epd"
+  }, {
+    "url": "https://github.com/riyaz-ali/dotlite",
+    "prefix": "dotlite"
   }]
 }
